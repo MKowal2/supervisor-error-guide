@@ -5,8 +5,10 @@ The first goal of this project was to train a neural network (supervisor) to pre
 
 Pytorch >= 0.4.0 is required! The rest of the necessary modules can be found in the first cell of MKowal_Project.ipynb.
 
-# RESULTS
+## RESULTS
 
 The supervisor is trained on three types of error: binary class independant, binary class dependant, and multi-class. It achieves a maximum accuracy of over 40% meanIOU. The error guided learning is currently being worked on with no state-of-the-art results yet...
+
+## Acknowledgments
 
 Done at Ryerson University, Toronto. Under the supervision of Kosta Derpanis (http://www.scs.ryerson.ca/kosta/) and Neil Bruce (http://www.scs.ryerson.ca/~bruce/)
