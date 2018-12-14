@@ -7,7 +7,7 @@ Pytorch >= 0.4.0 is required! The rest of the necessary modules can be found in 
 
 ## RESULTS
 
-The supervisor is trained on three types of error: binary class independant, binary class dependant, and multi-class. It achieves a maximum accuracy of over 40% meanIOU. The error guided learning is currently being worked on with no state-of-the-art results yet...
+The supervisor is trained on three types of error: binary class independant, binary class dependant, and multi-class. It achieves a maximum accuracy of over 39.2% meanIOU. The error guided learning is currently being worked on with no state-of-the-art results yet...
 
 ## Acknowledgments
 
